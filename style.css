@@ -1092,3 +1092,12 @@ footer {
 .button-contact:hover {
 	opacity: 0.5;
 }
+.op__img {
+	opacity: 0.6;
+}
+.order__grid {
+	order: 2;
+}
+.mg-top {
+	margin-top: 50px;
+}
